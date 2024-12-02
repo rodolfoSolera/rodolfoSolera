@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&weight=800&size=24&pause=1000&color=CA0505&width=435&lines=Hello%2C+be+welcome+!;Ol%C3%A1%2C+seja+bem-vindo+!)](https://git.io/typing-svg)
 
 
-## Who I am
+## Who am I?
 
 - 👋 Hi, I’m @rodolfoSolera
 - 🏢 I'm currently working at [Consistem](https://consistem.com.br/) as an ERP Developer.
