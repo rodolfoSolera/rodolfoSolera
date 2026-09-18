@@ -1,33 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&weight=800&size=24&pause=1000&color=CA0505&width=435&lines=Hello%2C+be+welcome+!;Ol%C3%A1%2C+seja+bem-vindo+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&weight=800&size=24&pause=1000&color=CA0505&width=500&lines=Hello%2C+welcome+to+my+profile!;Backend+%26+Data+Developer)](https://git.io/typing-svg)
 
-## 👨‍💻 Who am I?
+## 👨‍💻 About Me
 
-- 👋 Hi, I’m **Rodolfo Solera**
-- 💼 **Backend Developer**  
+- 👋 Hi, I'm **Rodolfo Pitondo Solera**
+- 💼 **Backend Developer & Data Analyst**
 - 🏢 Currently working at **Consistem** as an ERP Backend Developer
-- 🔧 Focused on **backend development** and **enterprise applications**
-- 🎯 Strong experience with **RESTful APIs** and business systems
-- 🎓 Graduated in **Systems Analysis and Development** at **Estácio de Sá University**
+- 🎓 Post-graduating in **Data Engineering & Artificial Intelligence** (Anhanguera)
+- 🎓 Degree in **Systems Analysis and Development** (Estácio de Sá)
+- 🐧 **Linux Essentials (LPI)** Certified
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🖥 Backend
-- **Java**
-- **Spring Boot**
-- **JPA / Hibernate**
-- **REST APIs**
+### 🖥 Backend & Languages
+- **InterSystems IRIS / Caché** (ObjectScript)
+- **Python**
+- **Java** | **Spring Boot**
+- **RESTful APIs**
 
-### 🗄 Databases & Platforms
-- **InterSystems IRIS / Caché**
-- SQL
+### 🗄 Data & BI
+- **SQL** (Advanced queries & modeling)
+- **Power BI** | **Qlik Sense**
+- **TIBCO JasperSoft**
 
-### 🧠 Concepts & Practices
-- Object-Oriented Programming (OOP)
-- Clean Code
-- Layered Architecture
-- Enterprise Application Development
+### 🛠️ DevOps & Best Practices
+- **Linux** (LPI Essentials Certified)
+- **Docker**
+- **Git / GitHub** | SVN
+- OOP, Clean Code & Layered Architecture
 
 ---
 
